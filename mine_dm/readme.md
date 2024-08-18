@@ -2,11 +2,14 @@
 
 ![DactylMinidox](https://i.imgur.com/PqjgeRfh.jpg)
 
-A 36 key (3x5+3), split bodied keyboard derived from the [Dactyl ManuForm](/keyboards/handwired/dactyl_manuform/).
+My custom 36 key split dactyl keyboard. Based on [Dactyl Minidox](https://github.com/qmk/qmk_firmware/tree/master/keyboards/handwired/dactyl_minidox).
 
-* Keyboard Maintainer: [Dan Ford](https://github.com/dlford)
-* Hardware Supported: Pro Micro controller, or clone of
-* Hardware Availability: [Build Guide](https://www.dlford.io/keyboard-build-guide-per-key-rgb-leds/)
+- Keyboard Maintainer: [eeay0](https://github.com/eeay0)
+- Hardware Supported: Pro Micro controller, or clone of
+- Guides I've used:
+  - [Dactyl Minidox Build Guide](https://www.dlford.io/keyboard-build-guide-per-key-rgb-leds/)
+  - [Dactyl Manuform Build Guide](https://medium.com/swlh/complete-idiot-guide-for-building-a-dactyl-manuform-keyboard-53454845b065)
+  - [CMD - Dactyl Manuform Build](https://www.youtube.com/watch?v=CxNKWNKBLMs&t=1019s)
 
 Make example for this keyboard (after setting up your build environment):
 
@@ -22,6 +25,6 @@ See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_to
 
 Enter the bootloader in 3 ways:
 
-* **Bootmagic reset**: Hold down the key at (0,0) in the matrix (usually the top left key or Escape) and plug in the keyboard
-* **Physical reset button**: Briefly press the button on the back of the PCB - some may have pads you must short instead
-* **Keycode in layout**: Press the key mapped to `QK_BOOT` if it is available
+- **Bootmagic reset**: Hold down the key at (0,0) in the matrix (usually the top left key or Escape) and plug in the keyboard
+- **Physical reset button**: Briefly press the button on the back of the PCB - some may have pads you must short instead
+- **Keycode in layout**: Press the key mapped to `QK_BOOT` if it is available

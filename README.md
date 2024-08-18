@@ -1,7 +1,9 @@
 # To-do List
 
-- [ ] Make a part list.
-- [ ] Design your case.
+- [x] Make a part list.
+- [x] Design your case.
+- [ ] Update qmk/readme.md file.
+- [ ] make a tutorial as you build.
 
 # Parts List
 
@@ -11,9 +13,9 @@ Motorbit, direnc, robo90
 
 | Status |            Item            | Count |  Store Name  | Price  |
 | :----: | :------------------------: | :---: | :----------: | :----: |
-|        |    Dactyl Minidox Case     |   2   |              |        |
-|        |   Dactyl Minidox Holder    |   2   |              |        |
-|        |    Dactyl Minidox Plate    |   2   |              |        |
+|        |    Dactyl Minidox Case     |   2   |              |   -    |
+|        |   Dactyl Minidox Holder    |   2   |              |   -    |
+|        |    Dactyl Minidox Plate    |   2   |              | ~1250  |
 | Found  |      Pro Micro board       |   2   |    direnc    |   -    |
 | Found  |           Diodes           |  36   |    direnc    |   -    |
 | Bought |      Gateron Oil King      |  36   | Rationalkeys |  1080  |
@@ -33,3 +35,5 @@ Motorbit, direnc, robo90
 | Found  |       Soldering Iron       |   1   |    Robo90    |   -    |
 | Found  |           Solder           |   1   |    Robo90    |   -    |
 | Found  |          Tweezers          |   1   |    robo90    |  2270  |
+
+- Total: ~5670 TL
